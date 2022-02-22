@@ -9,13 +9,24 @@ background-size: 100%;
 }
 
 form{
-  /* background-color: beige; */
+  background-color: beige;
   height: 400px;
   margin-top: 30px;
   width: 40%;
+  opacity: 10px;
+
 }
 
 input{
 margin-top: 20PX;
 background-color: transparent;
+
+}
+
+button{
+  width: 30%;
+  background-color: aquamarine;
+  padding: 10px;
+  border-radius: 5px;
+
 }
