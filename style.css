@@ -1,5 +1,21 @@
-.mati{
-  height: 200px;
-  width: 500px;
-  background-color: aqua;
+
+
+.container {
+  height: 1000px;
+  background-image: url(https://images.pexels.com/photos/1229861/pexels-photo-1229861.jpeg?cs=srgb&dl=pexels-hasan-albari-1229861.jpg&fm=jpg);
+/* background-position: cover; */
+background-repeat: no-repeat;
+background-size: 100%;
+}
+
+form{
+  /* background-color: beige; */
+  height: 400px;
+  margin-top: 30px;
+  width: 40%;
+}
+
+input{
+margin-top: 20PX;
+background-color: transparent;
 }
